@@ -1,0 +1,10 @@
+h1{text-align:center;}
+html{background-color:rgb(2,4,5);color:white;}
+#header{background-color:rgb(17,4,10);}
+#page{background-color:green;}
+#home{color:white;padding:20px;font-weight:bold;}
+#about{color:white;font-weight:bold;}
+#scientists{color:white;padding:20px;font-weight:bold;}
+img{width:175px;size:30px;}
+#h1{color:rgb(100,35,54);font-family: "Playfair Display", serif;}
+ol{list-style-type:upper-alpha;}

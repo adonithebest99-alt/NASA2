@@ -1,0 +1,7 @@
+.container {  display: flex;align-items: center;gap: 20px;padding: 0px;flex-direction:row;width:90vh}
+img { width: 300px; height: auto;border-radius: 10px;}
+.text { font-size: 18px;flex:1;}
+html{transform:rotate(90deg);background-color:rgb(5,5,1);color:white;}
+#p2{text-align:center;font-style:italic;font-family:Brush Script MT,cursive;color:rgb(32,60,56)}
+#p3{text-align:center;font-style:italic;font-family:Brush Script MT,cursive;font-weight:bold;}
+button{background-color:rgb(25,35,65);border-radius:10px;}
